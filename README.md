@@ -1,6 +1,6 @@
 # create-t3-turbo
 
-This is the "stock" create-t3-turbo repo. The onlyc changes are on the page.tsx file in the nextjs app.
+This is the "stock" create-t3-turbo repo. The only changes are on the page.tsx file in the nextjs app.
 
 To reproduce just do pnpm install and run pnpm lint.
 
